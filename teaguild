@@ -1,1 +1,6 @@
-https://github.com/new
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xa2D1E5aDC570D2A9fAC4BbD6de618462ac7f425D'
+quorum: 1
